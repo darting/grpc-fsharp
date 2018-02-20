@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\generated\helloworld\helloworld.csproj" />
+    <ProjectReference Include="..\..\generated\helloworld\helloworld.csproj" />
   </ItemGroup>
 
   <ItemGroup>
